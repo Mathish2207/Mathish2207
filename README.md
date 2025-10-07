@@ -35,13 +35,13 @@ Ici, tu trouveras mes projets, mes expérimentations et parfois quelques idées 
 ## 📊 Mes stats GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathish2207&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mathish2207=Mathish2207&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mathish2207=Mathish2207&layout=compact&theme=tokyonight) -->
 
 ---
 
 ## 🌐 Me retrouver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/TON-LINKEDIN/](https://fr.linkedin.com/in/mathis-herbreteau-02013329b)](https://fr.linkedin.com/in/mathis-herbreteau-02013329b))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/mathis-herbreteau-02013329b)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://TON-PORTFOLIO.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathish2207@gmail.com) -->
 
