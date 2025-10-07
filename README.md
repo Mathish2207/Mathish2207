@@ -4,9 +4,9 @@ Bienvenue sur mon profil GitHub ! 🚀
 Je suis passionné par la **tech**, le **code propre** et les **projets qui ont du sens**.  
 Ici, tu trouveras mes projets, mes expérimentations et parfois quelques idées un peu folles 💡  
 
----
+<!-- ---
 
-<!-- ## 💻 À propos de moi
+## 💻 À propos de moi
 
 - 🔭 Je travaille actuellement sur : ** **  
 - 🌱 J’apprends en ce moment : ** **  
