@@ -8,10 +8,10 @@ Ici, tu trouveras mes projets, mes expérimentations et parfois quelques idées 
 
 ## 💻 À propos de moi
 
-- 🔭 Je travaille actuellement sur : **WEHBHERB**  
-<!-- - 🌱 J’apprends en ce moment : **[technologie, framework ou langage]**  
-- 💬 N’hésite pas à me parler de : **[tes domaines de prédilection]**  
-- ⚡ Fun fact : **[petit détail marrant ou original sur toi]** -->
+<!-- - 🔭 Je travaille actuellement sur : ** **  
+- 🌱 J’apprends en ce moment : ** **  
+- 💬 N’hésite pas à me parler de : ** **  
+- ⚡ Fun fact : ** ** -->
 
 ---
 
