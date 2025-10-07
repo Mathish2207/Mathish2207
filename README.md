@@ -8,10 +8,10 @@ Ici, tu trouveras mes projets, mes expérimentations et parfois quelques idées 
 
 ## 💻 À propos de moi
 
-- 🔭 Je travaille actuellement sur : **[ton projet actuel]**  
-- 🌱 J’apprends en ce moment : **[technologie, framework ou langage]**  
+- 🔭 Je travaille actuellement sur : **WEHBHERB**  
+<!-- - 🌱 J’apprends en ce moment : **[technologie, framework ou langage]**  
 - 💬 N’hésite pas à me parler de : **[tes domaines de prédilection]**  
-- ⚡ Fun fact : **[petit détail marrant ou original sur toi]**
+- ⚡ Fun fact : **[petit détail marrant ou original sur toi]** -->
 
 ---
 
@@ -22,21 +22,20 @@ Ici, tu trouveras mes projets, mes expérimentations et parfois quelques idées 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Outils & Frameworks
+<!-- ### Outils & Frameworks
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white) -->
 
 ---
 
 ## 📊 Mes stats GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathish2207&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mathish2207=TON_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
