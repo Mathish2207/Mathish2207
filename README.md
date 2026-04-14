@@ -14,7 +14,7 @@
 
 ## 🔥 Projets à la une
 
-### 🎲 [Ludiscore](https://github.com/Mathish2207/ludiscore)
+### 🎲 Ludiscore
 **Le compagnon idéal pour vos soirées jeux de société.** *Fini les feuilles volantes et les erreurs de calcul.*
 
 - 🏆 **Score Cible** : Paramétrez une limite de victoire ou d'élimination.
